@@ -1,13 +1,6 @@
 # Stars block
-Replace `<your_account>` with your Github username and copy the links to Pull Request description:
-- [DEMO LINK](https://<your_account>.github.io/layout_stars/)
-- [TEST REPORT LINK](https://<your_account>.github.io/layout_stars/report/html_report/)
-
-> Follow [this instructions](https://github.com/mate-academy/layout_task-guideline#how-to-solve-the-layout-tasks-on-github)
-___
-
-> Disable `Multiplayer Cursors` in figma to hide other cursors ([Learn how](https://mate-academy.github.io/layout_task-guideline/figma.html#multiplayer-cursors))
-___
+- [DEMO LINK](https://illia-boiko.github.io/layout_stars/)
+- [TEST REPORT LINK](https://illia-boiko.github.io/layout_stars/report/html_report/)
 
 ## The task
 Implement the [`stars` block](https://www.figma.com/file/euXjY316CHKYkPRO1K0kjLsF/Moyo-Catalog?node-id=11325%3A2961) used in card and catalog.
